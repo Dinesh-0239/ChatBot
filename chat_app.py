@@ -1,3 +1,8 @@
+"""
+This is the Python project on "Chatbot" created by Dinesh Singh of BCA Sem-VI from University of Allahabad
+Very thankful to Sync Intern's for providing such an amazing opportunity to build this project
+
+"""
 from tkinter import *
 from chat import get_response, bot_name
 
